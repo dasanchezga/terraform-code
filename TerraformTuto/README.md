@@ -1,1 +1,1 @@
-Repository created using Terraform
+Code to use the Github resource from Terraform
